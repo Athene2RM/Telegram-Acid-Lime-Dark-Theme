@@ -2,7 +2,7 @@
 An "Acid Lime and Dark" theme for Telegram Android. 
 
 ## Theme Preview created by [@ThemePreviewBot](http://telegram.me/themepreviewbot)
-![acid lime dark preview](https://user-images.githubusercontent.com/25554246/35916365-76f28566-0c0a-11e8-92ad-b464be427727.jpg)
+![acid lime dark preview](https://user-images.githubusercontent.com/25554246/35944833-30cea368-0c5e-11e8-9057-0aecbee80f30.jpg)
 
 ## Installation Guide
 
