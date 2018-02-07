@@ -6,7 +6,7 @@ An "Acid Lime and Dark" theme for Telegram Android.
 
 ## Installation Guide
 
-* Download the most recent .attheme file in [Releases](https://github.com/Athene2RM/Telegram-Acid-Lime-Dark-Theme/releases/tag/android_v1) section
+* Download the most recent .attheme file in [Releases](https://github.com/Athene2RM/Telegram-Acid-Lime-Dark-Theme/releases/tag/android_v1) section.
 * Send it to yourself in Telegram.
 * Open Telegram on your Android, click on the file and press "Apply Theme".
 
