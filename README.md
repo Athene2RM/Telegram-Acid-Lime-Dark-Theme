@@ -14,4 +14,8 @@ An "Acid Lime and Dark" theme for Telegram Android.
 
 ### Desktop version Available Soon!
 
-ΛϮᏥ૯ռ૯ ༒ Ɲϕ૮ϮཔΛ
+_____________________________________________________________________________________________________________________________
+
+*Please, feel free to contact me for any question/suggestions:*
+
+[**ΛϮᏥ૯ռ૯ ༒ Ɲϕ૮ϮཔΛ**](https://t.me/Athene_2RM)
