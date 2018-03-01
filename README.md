@@ -18,4 +18,4 @@ ________________________________________________________________________________
 
 *Please, feel free to contact me for any question/suggestions:*
 
-[**ΛϮᏥ૯ռ૯ ༒ Ɲϕ૮ϮཔΛ**](https://t.me/Athene_2RM)
+**ΛϮᏥ૯ռ૯ ༒ Ɲϕ૮ϮཔΛ**
